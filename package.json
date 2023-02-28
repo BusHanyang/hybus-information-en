@@ -1,0 +1,9 @@
+{
+  "name": "hybus-information-en",
+  "version": "1.0.0",
+  "main": "convert.ts",
+  "repository": "https://github.com/BusHanyang/hybus-information-en.git",
+  "author": "Taewan Park <swimingtw@gmail.com>",
+  "license": "Apache 2.0",
+  "private": false
+}
