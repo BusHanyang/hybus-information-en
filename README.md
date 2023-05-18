@@ -7,6 +7,11 @@ The timetable is based on the PDF uploaded in the school official homepage.
 Now, there is no need to check PDF everytime, nor check for any announcements about the shuttle bus.
 
 
+### Route Information
+
+![route_info](./images/route_information.png)
+
+
 ### How to use
 
 For the best user experience, please use Chrome in Android, and Safari for iPhone users.
