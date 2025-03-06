@@ -9,7 +9,7 @@ Now, there is no need to check PDF everytime, nor check for any announcements ab
 
 ### Route Information
 
-![route_info](./images/route_information.png)
+![route_info](./images/route_english_outline.png)
 
 
 ### How to use
